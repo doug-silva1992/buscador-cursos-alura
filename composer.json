@@ -1,0 +1,16 @@
+{
+    "name": "doug/buscador-cursos",
+    "description": "Projeto que busca cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Doug Silva",
+            "email": "doug.valverde.silva@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/css-selector": "^4.3",
+        "guzzlehttp/guzzle": "^6.4",
+        "symfony/dom-crawler": "^4.2"
+    }
+}
